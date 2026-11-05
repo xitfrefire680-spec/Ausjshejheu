@@ -29670,7 +29670,7 @@ do
 
 			v4730()
 			v4742 = SenaLibOverride:Window({
-				Title = "Sena BETA |",
+				Title = "Dark Hub |",
 				Footer = "Steal An Egg",
 				Folder = "SenaSAEv4",
 				Version = 1,
@@ -31520,3 +31520,4 @@ Missing: %s]], __SenaV4ScrambleTradeIn.banner, __SenaV4ScrambleTradeIn.status, m
 
 	v4315()
 end
+
